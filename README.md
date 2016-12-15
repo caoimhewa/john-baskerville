@@ -21,4 +21,4 @@ Week 08 - 14th November 2016
 History of Type
 --------------
 
-- [History 01](http://caoimhewa.github.io/john-baskerville/history1.html)
+- [History 01](https://caoimhewa.github.io/john-baskerville/history1.html)
