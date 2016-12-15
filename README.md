@@ -17,3 +17,8 @@ Week 08 - 14th November 2016
 - [Version 04](http://caoimhewa.github.io/john-baskerville/baskerville4.html)
 
 - [History List](http://caoimhewa.github.io/john-baskerville/list.html)
+
+History of Type
+--------------
+
+- [History 01](http://caoimhewa.github.io/john-baskerville/history1.html)
